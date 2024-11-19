@@ -6,3 +6,7 @@ Algún otro cambio
 van a ver que no aparece el punto blanco con el autosave
 Si no guardo no aparece
 -------------------------------------------------------------
+
+Punto 2
+Wow no está sincronizado qué bueno que me avises!
+--------------------------------------------------
