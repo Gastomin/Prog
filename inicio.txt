@@ -1,0 +1,10 @@
+Este archivo contiene información del inicio de nuestro programa
+
+Menu inicio
+1- Crear las imagenes y sectores
+2- Colocar botones que nos direccionen a distintas partes de la aplicación
+3- Realizar formulario de inicio de sesión
+4- Crear carteles de alerta si no se coloca bien el usuario y la contraseña
+
+Punto 3 
+----------------------------------------------
